@@ -1,0 +1,17 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  text-decoration: none;
+ 
+}
+ul{
+   list-style: none;
+}
+body {
+  font-family: 'Delius', cursive;
+}
+
+a {
+  color: #1d1f22;
+}
