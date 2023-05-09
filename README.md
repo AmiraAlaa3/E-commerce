@@ -1,3 +1,5 @@
+![E-commerce website builder](https://github.com/AmiraAlaa3/E-commerce/assets/119977494/11357b74-54f6-4c4a-85a3-ace28c6c794b)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
